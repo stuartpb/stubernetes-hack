@@ -1,8 +1,12 @@
-# stubernetes-setup
+# stubernetes-hack
 
 This repository contains utility scripts and resources I use to bootstrap the initial stages of nodes in my personal Kubernetes cluster (running on [OpenSUSE Kubic](https://kubic.opensuse.org/) as of 2020-10-01).
 
 They are all laid out to be run from this directory.
+
+## Moved
+
+Active development on this repository has moved to [the main stubernetes repository](https://github.com/stuartpb/stubernetes/tree/main/hack).
 
 ## config-imagers
 
